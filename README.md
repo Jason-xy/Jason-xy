@@ -14,7 +14,7 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 
 ### 🔨Tools Preference
 
-![cloud](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/cloud.svg)![git](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/git.svg)![docker](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/docker.svg) ![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.svg) ![vscode](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/vscode.svg)
+![cloud](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/cloud.svg) ![git](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/git.svg) ![docker](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/docker.svg) ![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.svg) ![vscode](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/vscode.svg)
 
 ### 💻Languages
 
