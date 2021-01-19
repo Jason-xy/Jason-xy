@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jason-xy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.gif)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jason-xy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.gif)
 
 ### HELLO WORLD！ 👋
 
