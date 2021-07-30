@@ -10,7 +10,7 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 
 📚Learning operating system, automatic control, computer vision.
 
-💬Ask me about STM32, Raspberry Pi, Electronic Design.
+💬Ask me about STM32, Raspberry Pi, Nvidia Jetson, Computer Vision, Electronic Design.
 
 ### 🔨Tools Preference
 
