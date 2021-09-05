@@ -24,6 +24,7 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 
 - [Twitter](https://twitter.com/JasonTh18826169?s=09)
 - [Bilibili](https://space.bilibili.com/354517342)
+- [Zhihu](https://www.zhihu.com/people/jason-50-85)
 - [Weibo](https://weibo.com/u/5781338770)
 - [Personal Site](https://jason-xy.cn)
 
