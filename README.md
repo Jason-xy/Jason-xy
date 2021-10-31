@@ -39,11 +39,5 @@ I am a computer software scholar major in embedded system whose ultimate goal is
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-xy&repo=WuhuTakeOff&show_owner=true" />
 </a>
 
-
-
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=jason-xy&color=brightgreen)
 
