@@ -1,3 +1,5 @@
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jason-xy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.gif)
 
 ### HELLO WORLD！ 👋
@@ -18,18 +20,30 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 
 ### 💻Languages
 
-![c&c++](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/c&c++.svg) ![python](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/python.svg) ![java](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/java.svg)
+![c&c++](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/c&c++.svg) ![python](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/python.svg) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-xy&layout=compact)](https://github.com/jason-xy/github-readme-stats)
 
 ### ☕Get In Touch
 
-- [Twitter](https://twitter.com/JasonTh18826169?s=09)
-- [Bilibili](https://space.bilibili.com/354517342)
-- [Zhihu](https://www.zhihu.com/people/jason-50-85)
-- [Weibo](https://weibo.com/u/5781338770)
-- [Personal Site](https://jason-xy.cn)
+- [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D354517342)](https://space.bilibili.com/354517342)
+- [![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Djason-50-85)](https://www.zhihu.com/people/jason-50-85)
+
+- [![Wechat Subscription Account](https://img.shields.io/badge/Wechat-JasonHsu-blue?logo=wechat)]([mmqrcode1635659616782 - Jason's Gallery (jason-xy.cn)](https://gallery.jason-xy.cn/image/mmqrcode1635659616782.6Z3K))
+
+- [![Website](https://img.shields.io/badge/WordPress-jason--xy.cn-orange)](https://jason-xy.cn)
 
 ### ✈Currently I am developing：
 
 <a href="https://github.com/Jason-xy/WuhuTakeOff">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-xy&repo=WuhuTakeOff&show_owner=true" />
 </a>
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=jason-xy&color=brightgreen)
+
