@@ -1,14 +1,15 @@
 <div align=center >
-<img alt="JasonHsu" src="./img/avatar.jpg" width=300 />
+<img alt="JasonHsu" src="./img/avatar.jpg" width=150 />
 
-### JasonHsu:wave:
+
+# JasonHsu:wave:
 ![](https://komarev.com/ghpvc/?username=jason-xy&color=brightgreen)
 
 </div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jason-xy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.gif)
 
-### HELLO WORLD！ 👋
+### HELLO WORLD！ 🎉
 
 I am a computer software scholar major in embedded system whose ultimate goal is to become a full-stack engineer！😉
 
