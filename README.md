@@ -23,11 +23,11 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 
 ### 🔨Tools Preference
 
-![cloud](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/cloud.svg) ![git](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/git.svg) ![docker](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/docker.svg) ![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.svg) ![vscode](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/vscode.svg)
+![cloud](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/cloud.svg) ![docker](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/docker.svg) ![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.svg) ![vscode](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/vscode.svg)![ROS](https://img.shields.io/badge/-ROS-lightgrey?logo=ros)![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv)
 
 ### 💻Languages
 
-![c&c++](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/c&c++.svg) ![python](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/python.svg) 
+![c&c++](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/c&c++.svg) ![python](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/python.svg) ![CUDA](https://img.shields.io/badge/-CUDA-yellowgreen?logo=nvidia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-xy&layout=compact)](https://github.com/jason-xy/github-readme-stats)
 
