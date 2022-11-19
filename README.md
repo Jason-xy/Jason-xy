@@ -42,7 +42,7 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 
 ### ✈Currently I am developing：
 
-<a href="https://github.com/Jason-xy/WuhuTakeOff">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-xy&repo=WuhuTakeOff&show_owner=true" />
+<a href="https://github.com/Jason-xy/Sky-explorer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-xy&repo=Sky-explorer&show_owner=true" />
 </a>
 
