@@ -7,7 +7,7 @@
 
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jason-xy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.gif)
+<img align="left" src="https://github-readme-stats-jason-xy.vercel.app/api?username=Jason-xy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.gif)
 
 ### HELLO WORLD！ 🎉
 
@@ -29,7 +29,7 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 
 ![c&c++](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/c&c++.svg) ![python](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/python.svg) ![CUDA](https://img.shields.io/badge/-CUDA-yellowgreen?logo=nvidia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-xy&layout=compact)](https://github.com/jason-xy/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jason-xy.vercel.app/api/top-langs/?username=jason-xy&layout=compact)](https://github.com/jason-xy/github-readme-stats)
 
 ### ☕Get In Touch
 
@@ -43,6 +43,6 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 ### ✈Currently I am developing：
 
 <a href="https://github.com/Jason-xy/Sky-explorer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-xy&repo=Sky-explorer&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-jason-xy.vercel.app/api/pin/?username=Jason-xy&repo=Sky-explorer&show_owner=true" />
 </a>
 
