@@ -46,3 +46,10 @@ I am a computer software scholar major in embedded system whose ultimate goal is
   <img align="left" src="https://github-readme-stats-jason-xy.vercel.app/api/pin/?username=Jason-xy&repo=Sky-explorer&show_owner=true" />
 </a>
 
+### ✨Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake.svg">
+</picture>
