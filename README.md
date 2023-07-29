@@ -9,6 +9,15 @@
 
 <img align="left" src="https://github-readme-stats-jason-xy.vercel.app/api?username=Jason-xy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.gif)
 
+### ✨Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ### HELLO WORLD！ 🎉
 
 I am a computer software scholar major in embedded system whose ultimate goal is to become a full-stack engineer！😉
@@ -45,11 +54,3 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 <a href="https://github.com/Jason-xy/Sky-explorer">
   <img align="left" src="https://github-readme-stats-jason-xy.vercel.app/api/pin/?username=Jason-xy&repo=Sky-explorer&show_owner=true" />
 </a>
-
-### ✨Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jason-xy/jason-xy/output/github-contribution-grid-snake.svg">
-</picture>
