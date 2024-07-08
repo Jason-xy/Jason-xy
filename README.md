@@ -20,19 +20,13 @@
 
 ### HELLO WORLD！ 🎉
 
-I am a computer software scholar major in embedded system whose ultimate goal is to become a full-stack engineer！😉
-
-🏫 Studying at the University of Electronic Science and Technology of China(UESTC).
-
-🏘Living in Chengdu, Sichuan, China.
-
-📚Learning operating system, automatic control, computer vision.
-
-💬Ask me about STM32, Raspberry Pi, Nvidia Jetson, Computer Vision, Electronic Design.
+- B.Eng., Software Engineering (Embedded System), UESTC
+- Former DJI Flight System Developer (Compilation System, Continuous Integration)
+- MPhil (Intelligent Construction and Robotics), HKUST
 
 ### 🔨Tools Preference
 
-![cloud](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/cloud.svg) ![docker](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/docker.svg) ![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.svg) ![vscode](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/vscode.svg) ![ROS](https://img.shields.io/badge/-ROS-lightgrey?logo=ros) ![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv)
+![docker](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/docker.svg) ![github](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/github.svg) ![vscode](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/vscode.svg) ![ROS](https://img.shields.io/badge/-ROS-lightgrey?logo=ros) ![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv)
 
 ### 💻Languages
 
@@ -51,6 +45,6 @@ I am a computer software scholar major in embedded system whose ultimate goal is
 
 ### ✈Currently I am developing：
 
-<a href="https://github.com/Jason-xy/Sky-explorer">
-  <img align="left" src="https://github-readme-stats-jason-xy.vercel.app/api/pin/?username=Jason-xy&repo=Sky-explorer&show_owner=true" />
+<a href="https://github.com/HKUST-Aerial-Robotics/OmniNxt">
+  <img align="left" src="https://github-readme-stats-jason-xy.vercel.app/api/pin/?username=HKUST-Aerial-Robotics&repo=OmniNxt&show_owner=true" />
 </a>
