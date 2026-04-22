@@ -22,7 +22,8 @@
 
 - B.Eng., Software Engineering (Embedded System), UESTC
 - Former DJI Flight System Developer (Compilation System, Continuous Integration)
-- MPhil (Intelligent Construction and Robotics), HKUST
+- MPhil (Intelligent Construction and Robotics), EMIA, HKUST
+- PhD (Aerial Robotics and Physical AI), ECE, HKUST
 
 ### 🔨Tools Preference
 
@@ -36,15 +37,4 @@
 
 ### ☕Get In Touch
 
-- [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D354517342)](https://space.bilibili.com/354517342)
-- [![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Djason-50-85)](https://www.zhihu.com/people/jason-50-85)
-
-- [![Wechat Subscription Account](https://img.shields.io/badge/Wechat-JasonHsu-blue?logo=wechat)](https://gallery.jason-xy.cn/image/mmqrcode1635659616782.6Z3K)
-
 - [![Website](https://img.shields.io/badge/WordPress-jason--xy.cn-orange)](https://jason-xy.cn)
-
-### ✈Currently I am developing：
-
-<a href="https://github.com/HKUST-Aerial-Robotics/OmniNxt">
-  <img align="left" src="https://github-readme-stats-jason-xy.vercel.app/api/pin/?username=HKUST-Aerial-Robotics&repo=OmniNxt&show_owner=true" />
-</a>
